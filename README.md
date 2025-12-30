@@ -22,4 +22,4 @@ placeholder-data.ts hold datas too seed my database (to populate it with some in
 
 definition.ts help to assign the proper format of data for the table
 
-//prisma used in discord-clone
+//prisma used in discord-clone" myproject" 
